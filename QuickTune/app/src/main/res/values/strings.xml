@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickTune</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tune_prompt">Choose a tuning</string>
+
+    <string-array name="tuning_array">
+        <item>Standard</item>
+        <item>Drop D</item>
+        <item>Half Step Down</item>
+        <item>Half Step Up</item>
+        <item>Quarter Step Down</item>
+        <item>Quarter Step Up</item>
+    </string-array>
+
+</resources>
