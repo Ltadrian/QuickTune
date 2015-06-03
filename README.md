@@ -1,6 +1,6 @@
 # QuickTune
 Quickly tune a guitar in different tunings
-Tunings include:
+Tunings include:<br>
 STADARD
 DROP D
 Half Step Down - Half Step Up
