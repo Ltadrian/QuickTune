@@ -1,5 +1,5 @@
 # QuickTune
-Quickly tune a guitar in different tunings
+Quickly tune a guitar in different tunings<br>
 Tunings include:<br>
 STADARD<br>
 DROP D<br>
