@@ -1,4 +1,4 @@
-# QuickTune
+# QuickTune Android App
 Quickly tune a guitar in different tunings<br>
 <b>Tunings include:</b><br>
 STADARD<br>
